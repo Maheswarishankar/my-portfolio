@@ -31,7 +31,7 @@ function Home() {
                 <br />
 
                 <button className="btn-resume">
-                    <a href={"https://drive.google.com/file/d/1EMGnpzCtqQcvlKCTyEJaDOmOm2H8fX7z/view?usp=share_link"}
+                    <a href={"https://drive.google.com/file/d/1YGOh_bWfd4J73Y21wCWkgoObHLyT9d8E/view?usp=share_link"}
                         target="_blank"
                         rel="noopener noreferrer"
                     >Resume
