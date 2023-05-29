@@ -1,0 +1,40 @@
+.skills_container{
+    color:#ffe603;
+}
+.skills-page {
+    display: grid;
+    grid-template-columns: 50vw 2fr;      
+    padding: 1%;
+    margin: 1%;
+    width: 100%;
+    place-items: center;
+  }
+
+  .tech-stack {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: inherit;
+    gap: 1rem;
+    justify-content:flex-start;
+    align-items: center;
+  }
+  .tech-stack > img {
+    width: 124px;
+    height: 124px;
+  }
+  .skills-heading {
+    color: yellow;
+    padding: 10px;
+    margin: 10px;
+    font-family:cursive;
+    text-align: center;
+    font-size: 44px;
+
+  }
+  
+ .skills-heading > h1:hover {
+    color: white;
+ }
+
+  

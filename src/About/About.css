@@ -1,0 +1,24 @@
+.about_container {
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.about-page {
+    display: grid;
+    grid-template-columns: 70vw 3fr;
+    line-height: 2rem;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+
+.about-page>.left-side>h1 {
+    color: yellow;
+    font-family: cursive;
+    font-size: 44px;
+}
+
+.about-page>.left-side>h1:hover {
+    color: white;
+}

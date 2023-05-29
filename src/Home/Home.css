@@ -1,0 +1,39 @@
+.home_container {
+  color: #ffe603;
+  text-align: center;
+}
+
+.home-content {
+  font-family: cursive;
+  font-size: 64px;
+}
+
+.home-content:hover {
+  display: inline-block;
+  animation: rubberBand 1s 1s;
+  animation-fill-mode: forwards;
+  color: #fff;
+  animation-delay: 0ms;
+}
+
+a>img {
+  width: 32px;
+  height: 32px;
+
+}
+
+.btn-resume {
+  padding: 10px;
+  margin: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: rgb(8, 243, 121);
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-resume>a {
+  text-decoration: none;
+  color: #000;
+}
